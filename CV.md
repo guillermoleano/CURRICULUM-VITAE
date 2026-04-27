@@ -119,3 +119,15 @@ safety checklist, and manage maintenance inventory and procurement
   - Universidad Autónoma del Caribe | 2015 - 2020.
 - **Technical Studies: Occupational Health**
   - Fundación Tecnológica Antonio de Arévalo (TECNAR) | 2012 - 2014.
+ 
+##REFERENCES
+Issa David Dovale Morales, Systems Engineer | C.C. 1234097522 | Phone: 3008436030
+William Ospina Botero, Electronic Engineering | C.C 1048316397 | Phone: 3013077200
+Jessica Herrera Suarez, Electronic Engineering | C.C 1234090183 | Phone: 3017163503
+Keily Antonella Gari, Licensed in biology | C.C 1001939143 | Phone: 3017144489
+
+##DIPLOMA
+-Imagen1
+-Imagen2
+-Imagen3
+-Imagen4"
