@@ -14,6 +14,9 @@
 -  **Programming:** Python, C++, C, Assembly (Proficient); Java, SQL (Intermediate), HTML
 -  **Networking:** Wireless, DHCP, DNS, APs, WLCs, switching, routing protocols, TCP/IP model, OSI model, CCNA knowledge, Linux, Prime infrastructure, SNMP, IP SLA, ARP. Basic understanding of LDAP and active directory.
 -  **Software & Tools:** Matlab, Citrix, Proteus, Solidworks, Simulink, Advanced excel, Linux, PowerBI, Postman, Playwright, APIs, GIT, GITHUB, Visual studio Code, Active directory, Wireshark, GNS3
+-  - **AI & Automation:** Prompt engineering, LLM APIs (OpenAI, Anthropic/Claude),
+  ChatGPT, Claude, GitHub Copilot, Cursor, n8n/Zapier, RAG basics,
+  AI-assisted scripting and test automation
 ---
 
 ## CERTIFICATION
@@ -21,6 +24,8 @@
 ---
 ### SEMINARS, WORKSHOPS AND COURSES
 
+- **Development with AI from scratch to production**
+  - BIG SCHOOL | March 2026 (6 HOURS).
 - **Programming for Network Engineers (PRNE)**
   - Cisco U. | March 2026 (24 Hours).
 - **Active Directory on Windows Server**
